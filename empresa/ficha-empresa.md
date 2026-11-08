@@ -30,5 +30,5 @@ Todos los datos son inventados.
 
 | Cliente | Tipo | Datos inventados |
 |---|---|---|
-| Bar La Espuma Dorada S.L. | Empresa | NIF B28417392 · Calle Mayor, 45, 28013 Madrid · espumadorada@cliente.example |
-| Marta Ruiz Salgado | Persona (tiene acceso a su zona de cliente) | Calle Alcalá, 210, 28028 Madrid · marta.ruiz@cliente.example |
+| Bar La Espuma Dorada S.L. | Empresa | NIF B28417392 · Calle Mayor, 45, 28013 Madrid · espumadorada@cliente.com |
+| Marta Ruiz Salgado | Persona (tiene acceso a su zona de cliente) | Calle Alcalá, 210, 28028 Madrid · marta.ruiz@cliente.com |
